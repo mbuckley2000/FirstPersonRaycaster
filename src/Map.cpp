@@ -6,7 +6,7 @@
 //  Copyright © 2016 Matt Buckley. All rights reserved.
 //
 
-#include "Map.hpp"
+#include "../include/Map.hpp"
 
 Map::Map(Vector2i size) : size(size) {
     tileID = new int*[size.x];

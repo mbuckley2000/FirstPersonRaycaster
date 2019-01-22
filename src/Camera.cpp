@@ -6,8 +6,8 @@
 //  Copyright © 2016 Matt Buckley. All rights reserved.
 //
 
-#include "Camera.hpp"
-#include <math.h>
+#include "../include/Camera.hpp"
+#include <cmath>
 
 Camera::Camera(Vector2f position, Vector2f direction)
 : fov(fov), position(position), direction(direction) {

@@ -6,7 +6,7 @@
 //  Copyright © 2015 Matt Buckley. All rights reserved.
 //
 
-#include "Object.hpp"
+#include "../include/Object.hpp"
 
 using namespace sf;
 

@@ -6,8 +6,7 @@
 //  Copyright © 2016 Matt Buckley. All rights reserved.
 //
 
-#include "MouseCameraController.hpp"
-#include <math.h>
+#include "../include/MouseCameraController.hpp"
 
 MouseCameraController::MouseCameraController(float magnitude)
 : magnitude(magnitude) {

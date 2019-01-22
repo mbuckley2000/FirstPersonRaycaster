@@ -6,7 +6,7 @@
 //  Copyright © 2016 Matt Buckley. All rights reserved.
 //
 
-#include "KeyboardMovementController.hpp"
+#include "../include/KeyboardMovementController.hpp"
 
 KeyboardMovementController::KeyboardMovementController(float magnitude)
 : magnitude(magnitude) {}

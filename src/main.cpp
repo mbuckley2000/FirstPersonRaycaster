@@ -1,9 +1,7 @@
 #include <SFML/Graphics.hpp>
-#include "RaycastRenderer.hpp"
-#include "KeyboardMovementController.hpp"
-#include "MouseCameraController.hpp"
-#include "Camera.hpp"
-#include "Map.hpp"
+#include "../include/RaycastRenderer.hpp"
+#include "../include/KeyboardMovementController.hpp"
+#include "../include/MouseCameraController.hpp"
 
 using namespace sf;
 

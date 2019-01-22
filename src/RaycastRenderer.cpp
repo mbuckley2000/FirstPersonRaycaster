@@ -6,8 +6,8 @@
 //  Copyright © 2016 Matt Buckley. All rights reserved.
 //
 
-#include "RaycastRenderer.hpp"
-#include <Math.h>
+#include "../include/RaycastRenderer.hpp"
+#include <cmath>
 
 Vector3i RaycastRenderer::traceRay(int screenX, RenderWindow* window, Camera* camera, Map* map) {
     //Initialise variables used for trace
